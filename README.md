@@ -1,10 +1,6 @@
 # Hello there 👋
 
-### Hola soy Elam Cano de Corrientes, Argentina
-
-
-## Sobre mi
-
+                                                            ### Hola soy Elam Cano de Corrientes, Argentina
 
 
 ## Sobre mi
@@ -22,7 +18,7 @@
 
 
 
-# Contactame!
+## Contactame!
 📩 Email: elamcano16@gmail.com
 🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
 ☎️ Cel: (+58) 4146295525
