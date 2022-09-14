@@ -12,6 +12,6 @@ Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentr
 
 ## Contactame!
 <sup>📩 Email: elamcano16@gmail.com</sup>
-🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
+<sup>🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/</sup>
 ☎️ Cel: (+58) 4146295525
 🚀 Portfolio: En curso.
