@@ -1,6 +1,5 @@
 ## Hola 👋, soy Elam de Corrientes, Argentina 
 ![Profile views](https://gpvc.arturio.dev/ElamCano)  
-![](https://i.pinimg.com/564x/cf/44/d7/cf44d7919ee7114ea47fd2f83fdc86b4.jpg)
 
 Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentro finalizando el bootcamp de Henry y en búsqueda de mi primer trabajo en IT.
 
