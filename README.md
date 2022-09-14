@@ -16,7 +16,7 @@
 ## Lenguajes y herramientas
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contactame!
 📩 Email: elamcano16@gmail.com
