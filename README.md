@@ -1,22 +1,11 @@
-# Hello there 👋
+### Hola 👋, soy Elam de Corrientes, Argentina
+![](https://i.pinimg.com/564x/cf/44/d7/cf44d7919ee7114ea47fd2f83fdc86b4.jpg)
 
-###                                                         Hola soy Elam Cano de Corrientes, Argentina
+Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentro finalizando el bootcamp de Henry y en búsqueda de mi primer trabajo en IT.
 
-
-## Sobre mi
-
-
+Habilidades:  REACT / JS / HTML / CSS / SQL / PostreSQL / 
 
 
-## Proyectos
-
-
-
-
-## Lenguajes y herramientas
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=darcula)
 
 ## Contactame!
