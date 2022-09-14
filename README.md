@@ -11,7 +11,7 @@ Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=darcula)
 
 ## Contactame!
--📩 Email: elamcano16@gmail.com
--🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
--☎️ Cel: (+58) 4146295525
--🚀 Portfolio: En curso.
+- 📩 Email: elamcano16@gmail.com
+- 🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
+- ☎️ Cel: (+58) 4146295525
+- 🚀 Portfolio: En curso.
