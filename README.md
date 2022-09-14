@@ -4,7 +4,7 @@
 
 Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentro finalizando el bootcamp de Henry y en búsqueda de mi primer trabajo en IT.
 
-**Habilidades:**  REACT / JS / HTML / CSS / SQL / PostreSQL / 
+**Habilidades:**  **REACT | JS | HTML | CSS | SQL | PostreSQL |**
 
 
 
