@@ -10,7 +10,7 @@ Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentr
 
 ### Musicfy
 Es una app de streaming de musica paca todos los dispositivos. Se aplico la metodología SCRUM en un equipo de 7 personas y se utilizaron estas tecnologías:
-Javascript | React | Redux | MongoDB | NodeJS | Express | Google Auth | Cloudinary | Nodemailer
+- Javascript | React | Redux | MongoDB | NodeJS | Express | Google Auth | Cloudinary | Nodemailer
 ![musicfy](/musicfy.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=darcula)
