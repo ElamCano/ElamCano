@@ -17,5 +17,5 @@ Es una app de streaming de musica paca todos los dispositivos. Se aplico la meto
 ## Contactame!
 - 📩 Email: elamcano16@gmail.com
 - 🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
-- ☎️ Cel: (+58) 4146295525
+- ☎️ Cel: (+54) 3764505876
 - 🚀 Portfolio: En curso.
