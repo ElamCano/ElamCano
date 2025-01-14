@@ -1,8 +1,9 @@
 ## Hi, I'm Elam 👋
 ![Profile views](https://gpvc.arturio.dev/ElamCano)  
 
-I'm a 26-year-old Full Stack Web Developer based in Argentina :🇦🇷: with a deep passion for technology that extends beyond web development. With a strong foundation in Physics and Mathematics, I excel at tackling complex problems through an analytical lens.
-My approach is simple yet impactful: turning challenges into innovative solutions through knowledge, confidence, and creativity. Let's create something extraordinary together! 🚀
+🎯 I am a Full Stack Developer with experience in building scalable web projects, focused on solving complex problems and thriving in team-based environments. I am also pursuing a degree in Physics, which complements my technical profile with a strong foundation in logic and analysis.
+
+📈 I am constantly evolving, integrating skills in logic, mathematics, and problem-solving to optimize projects and contribute effectively to collaborative efforts. My drive lies in learning new technologies, tackling challenges, and applying acquired knowledge to deliver innovative solutions.
 
 **Habilidades:  REACT | JS | HTML | CSS | SQL | PostreSQL |**
 
