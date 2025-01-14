@@ -1,7 +1,8 @@
-## Hola 👋, soy Elam Cano 🚀
+## Hi, I'm Elam 👋
 ![Profile views](https://gpvc.arturio.dev/ElamCano)  
 
-Soy Fullstack Developer y estudiante de Lic. en Física. Actualmente me encuentro finalizando el bootcamp de Henry y en búsqueda de mi primer trabajo en IT.
+I'm a 26-year-old Full Stack Web Developer based in Argentina 🇦🇷 with a deep passion for technology that extends beyond web development. With a strong foundation in Physics and Mathematics, I excel at tackling complex problems through an analytical lens.
+My approach is simple yet impactful: turning challenges into innovative solutions through knowledge, confidence, and creativity. Let's create something extraordinary together! 🚀
 
 **Habilidades:  REACT | JS | HTML | CSS | SQL | PostreSQL |**
 
