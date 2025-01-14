@@ -5,7 +5,7 @@
 
 📈 I am constantly evolving, integrating skills in logic, mathematics, and problem-solving to optimize projects and contribute effectively to collaborative efforts. My drive lies in learning new technologies, tackling challenges, and applying acquired knowledge to deliver innovative solutions.
 
-**Habilidades:  React | NextJS | TS | JS | TailwindCSS | Sass | HTML | CSS | NodeJS | MongoDB | Express | SQL | PostreSQL |**
+**Tech Stack:  React | NextJS | TS | JS | TailwindCSS | Sass | HTML | CSS | NodeJS | MongoDB | Express | SQL | PostreSQL |**
 
 ## Projects
 
@@ -15,7 +15,7 @@ Es una app de streaming de musica paca todos los dispositivos. Se aplico la meto
 ![musicfy](/musicfy.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=darcula)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elam-cano/)
 ## Contactame!
 - 📩 Email: elamcano16@gmail.com
 - 🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
