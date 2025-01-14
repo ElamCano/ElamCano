@@ -5,9 +5,9 @@
 
 📈 I am constantly evolving, integrating skills in logic, mathematics, and problem-solving to optimize projects and contribute effectively to collaborative efforts. My drive lies in learning new technologies, tackling challenges, and applying acquired knowledge to deliver innovative solutions.
 
-**Habilidades:  REACT | JS | HTML | CSS | SQL | PostreSQL |**
+**Habilidades:  React | NextJS | TS | JS | TailwindCSS | Sass | HTML | CSS | NodeJS | MongoDB | Express | SQL | PostreSQL |**
 
-## Proyectos
+## Projects
 
 ### Musicfy
 Es una app de streaming de musica paca todos los dispositivos. Se aplico la metodología SCRUM en un equipo de 7 personas y se utilizaron estas tecnologías:
