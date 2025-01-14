@@ -16,7 +16,8 @@ Es una app de streaming de musica paca todos los dispositivos. Se aplico la meto
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=darcula)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elam-cano/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin](https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473))](https://www.linkedin.com/in/elam-cano/)
+
 ## Contactame!
 - 📩 Email: elamcano16@gmail.com
 - 🚹 LinkedIn: https://www.linkedin.com/in/elam-cano/
