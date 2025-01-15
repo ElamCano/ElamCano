@@ -31,18 +31,26 @@
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
   <!-- Primera columna -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 300px; height: 200px;">
     <a href="https://github.com/ElamCano/Product-Detail">
-  <div  style="display: flex; flex-direction: column; align-items: center; width: 300px;">
-    <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 300px; height: 50px; object-fit: contain;">
+      <div>
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 300px">   
+      </div>
+    </a>
   </div>
-      </a>
 
   <!-- Segunda columna -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 300px;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 300px; height: 200px;">
     <a href="https://github.com/ElamCano/app-Musicfy">
-      <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 100%; height: 200px; object-fit: cover;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 100%; height: 50px; object-fit: contain;">
+      <div>
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 100%; height: 200px; object-fit: cover;">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 300px; height: 50px; object-fit: contain;">
+      </div>
     </a>
   </div>
 </div>
