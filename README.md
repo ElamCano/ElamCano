@@ -1,4 +1,4 @@
-![cover](/cover.jpg)
+![cover](/cover.png)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/ElamCano/ElamCano?style=social)
 
