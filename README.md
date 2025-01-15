@@ -24,7 +24,6 @@
 ![Static Badge](https://img.shields.io/badge/SQL-yellow?logo=sql)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-skyblue?logo=postgresql)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
-![Repos Stars](https://readme-stats.vercel.app/api/pin/?username=ElamCano&repo=datathon-2024)
 
 ## Projects
 
