@@ -23,14 +23,13 @@
 ![Static Badge](https://img.shields.io/badge/Express-black?logo=express)
 ![Static Badge](https://img.shields.io/badge/SQL-yellow?logo=sql)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-skyblue?logo=postgresql)
-
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python)
+![Repos Stars](https://readme-stats.vercel.app/api/pin/?username=ElamCano&repo=datathon-2024)
 
 ## Projects
 
-### Musicfy
-Es una app de streaming de musica paca todos los dispositivos. Se aplico la metodología SCRUM en un equipo de 7 personas y se utilizaron estas tecnologías:
-- Javascript | React | Redux | MongoDB | NodeJS | Express | Google Auth | Cloudinary | Nodemailer
-![musicfy](/musicfy.png)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7a8636819d3aa7559faf09d2adbb329c)](https://gist.github.com/ElamCano/7a8636819d3aa7559faf09d2adbb329c/)
+
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=tokyonight)
 
