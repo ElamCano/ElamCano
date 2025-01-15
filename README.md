@@ -8,7 +8,7 @@
 
 📈 I am constantly evolving, integrating skills in logic, mathematics, and problem-solving to optimize projects and contribute effectively to collaborative efforts. My drive lies in learning new technologies, tackling challenges, and applying acquired knowledge to deliver innovative solutions.
 
-**Tech Stack:  
+## Tech Stack:  
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react)
 ![Static Badge](https://img.shields.io/badge/NextJS-gray?logo=next.js)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=typescript)
@@ -28,8 +28,25 @@
 
 ## Projects
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=7a8636819d3aa7559faf09d2adbb329c)](https://gist.github.com/ElamCano/7a8636819d3aa7559faf09d2adbb329c/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2c895a3448a1c74143ac8db57d19de6b&theme=tokyonight)](https://gist.github.com/ElamCano/2c895a3448a1c74143ac8db57d19de6b/)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
+  <!-- Primera columna -->
+    <a href="https://github.com/ElamCano/Product-Detail">
+  <div  style="display: flex; flex-direction: column; align-items: center; width: 300px;">
+    <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 300px; height: 50px; object-fit: contain;">
+  </div>
+      </a>
+
+  <!-- Segunda columna -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 300px;">
+    <a href="https://github.com/ElamCano/app-Musicfy">
+      <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 100%; height: 200px; object-fit: cover;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 100%; height: 50px; object-fit: contain;">
+    </a>
+  </div>
+</div>
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=tokyonight)
 
