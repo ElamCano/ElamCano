@@ -33,14 +33,14 @@
   <tr>
     <td>
       <a href="https://github.com/ElamCano/Product-Detail">
-        <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 300px;">
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/productdetail.png" style="width: 400px; height: 200px; object-fit: cover; ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 400px;">
       </a>
     </td>
     <td>
       <a href="https://github.com/ElamCano/app-Musicfy">
-        <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 300px;">
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/musicfy.png" style="width: 400px; height: 200px; object-fit: cover;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 400px;">
       </a>
     </td>
   </tr>
