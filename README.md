@@ -27,9 +27,22 @@
 
 ## Projects
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2c895a3448a1c74143ac8db57d19de6b&theme=tokyonight)](https://gist.github.com/ElamCano/2c895a3448a1c74143ac8db57d19de6b/)
-
 <table>
+  <tr>
+    <td>
+      <a href="https://noti-small-dev.vercel.app/en/login">
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/small_log.png" style="width: 400px; height: 200px; object-fit: cover;">
+        <img src="https://github-readme-stats.vercel.app/api/gist?id=2c895a3448a1c74143ac8db57d19de6b&theme=tokyonight" alt="Gist Card">
+      </a>
+    </td>
+    <td>
+      <a href="https://uitrade-dev.vercel.app/es">
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/trade.png" style="width: 400px; height: 200px; object-fit: cover;">
+         <img src="https://github-readme-stats.vercel.app/api/gist?id=d1cc73b1767b883a6b51f25ad94ef495&theme=tokyonight" alt="Gist Card">
+      </a>
+    </td>
+  </tr>
+  
   <tr>
     <td>
       <a href="https://github.com/ElamCano/Product-Detail">
