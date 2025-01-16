@@ -29,31 +29,22 @@
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2c895a3448a1c74143ac8db57d19de6b&theme=tokyonight)](https://gist.github.com/ElamCano/2c895a3448a1c74143ac8db57d19de6b/)
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
-  <!-- Primera columna -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 300px; height: 200px;">
-    <a href="https://github.com/ElamCano/Product-Detail">
-      <div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ElamCano/Product-Detail">
         <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
-      </div>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 300px">   
-      </div>
-    </a>
-  </div>
-
-  <!-- Segunda columna -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 300px; height: 200px;">
-    <a href="https://github.com/ElamCano/app-Musicfy">
-      <div>
-        <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 100%; height: 200px; object-fit: cover;">
-      </div>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 300px; height: 50px; object-fit: contain;">
-      </div>
-    </a>
-  </div>
-</div>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=Product-Detail&theme=tokyonight" alt="Product Detail" style="width: 300px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ElamCano/app-Musicfy">
+        <img src="https://github.com/ElamCano/ElamCano/blob/main/cover.png" style="width: 300px; height: 200px; object-fit: cover;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElamCano&repo=app-Musicfy&theme=tokyonight" alt="App Musicfy" style="width: 300px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElamCano&show_icons=true&theme=tokyonight)
 
