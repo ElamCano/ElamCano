@@ -30,13 +30,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://noti-small-dev.vercel.app/en/login">
+      <a href="https://small.ar/">
         <img src="https://github.com/ElamCano/ElamCano/blob/main/small_log.png" style="width: 400px; height: 200px; object-fit: cover;">
-        <img src="https://github-readme-stats.vercel.app/api/gist?id=2c895a3448a1c74143ac8db57d19de6b&theme=tokyonight" alt="Gist Card">
+        <img src="https://github-readme-stats.vercel.app/api/gist?id=41ce3ccbc6245f8f11661d64ce985149&theme=tokyonight" alt="Gist Card">
       </a>
     </td>
     <td>
-      <a href="https://uitrade-dev.vercel.app/es">
+      <a href="https://uitrade.com/es">
         <img src="https://github.com/ElamCano/ElamCano/blob/main/trade.png" style="width: 400px; height: 200px; object-fit: cover;">
          <img src="https://github-readme-stats.vercel.app/api/gist?id=d1cc73b1767b883a6b51f25ad94ef495&theme=tokyonight" alt="Gist Card">
       </a>
